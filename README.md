@@ -38,9 +38,9 @@ To access Jupyter Notebook from outside the container, copy the link from the pr
 ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/Jupyter.JPG)
 
 ## Resources
-- Presentation: Energy-Efficient AI Inference Acceleration with Untether by Gaurav Singh (Untether AI)
-- Datasheet and Whitepaper: [https://www.untether.ai/products](https://www.untether.ai/products)
-- Getting Started, Tutorials and Demos are available on the Untether AI® Documentation Portal.
+- [Presentation: Energy-Efficient AI Inference Acceleration with Untether by Gaurav Singh (Untether AI)](https://www.youtube.com/watch?v=oK7YbOD4TYk&t=2112s)
+- [Datasheet and Whitepaper](https://www.untether.ai/products)
+- [Getting Started, Tutorials and Demos are available on the Untether AI® Documentation Portal](https://www.untether.ai/)
 
 ## Contact Us
 Dr. Yassine Hariri
