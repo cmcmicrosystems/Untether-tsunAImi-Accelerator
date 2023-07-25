@@ -18,7 +18,7 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
 9. **SSH to the Server:**
    Use the obtained IP address to SSH into the server using the following command:
    ```
-   ssh username@ipaddress
+   ssh username@ipaddress                     
    ```
    
 10. **Check Available Accelerators:**
