@@ -46,4 +46,4 @@ To access Jupyter Notebook from outside the container, copy the link from the pr
 Contact Yassine Hariri
 Senior Staff Scientist
 AI/ML and Embedded Systems
-Email: [Yassine](mailto:yassine.hariri@example.com)
+Email: [Yassine](mailto:yassine.hariri@cmc.ca)
