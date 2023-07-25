@@ -42,8 +42,8 @@ To access Jupyter Notebook from outside the container, copy the link from the pr
 - [Datasheet and Whitepaper](https://www.untether.ai/products)
 - [Getting Started, Tutorials and Demos are available on the Untether AI® Documentation Portal](https://www.untether.ai/)
 
-## Contact Us
-Dr. Yassine Hariri
+## Get Access today
+Contact Yassine Hariri
 Senior Staff Scientist
 AI/ML and Embedded Systems
 Email: [Yassine](mailto:yassine.hariri@example.com)
