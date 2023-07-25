@@ -13,7 +13,7 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
    ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG)
    
 7. **Find the Server IP Address:**
-   In the shortcut details window, you will find the IP address of the server.
+   In the shortcut details window, you will find the IP address of the server. In this case, the IP address of the server is 172.16.60.17: 
    
 9. **SSH to the Server:**
    Use the obtained IP address to SSH into the server using the following command:
