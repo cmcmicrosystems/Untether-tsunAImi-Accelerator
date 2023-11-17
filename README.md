@@ -13,8 +13,7 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
    ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG)
    
 4. **Find the Server IP Address:**
-   In the shortcut details window, you will find the IP address of the server. In this case, the IP address of the server is 172.16.60.17: 
-   
+   In the shortcut details window, you will find the IP address of the server. In this case, the IP address of the server is 172.16.60.17:    
 5. **SSH to the Server:**
    Use the obtained IP address to SSH into the server using the following command:
    ```
@@ -28,8 +27,7 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
 7. **Change permission of your directory and files**
    ```
    chmod-R a+rwx /home/username/untether
-   ```
-   
+   ```   
 8. **Check Available Accelerators:**
 Once connected to the server, type the following command to see available accelerator cards in the system:
    ```
@@ -39,7 +37,6 @@ The output of this command will display the available accelerator cards, such as
    ```
    86:00.0 Processing accelerators: Untether AI runAI200 AI Inference Accelerator (rev 01)
    ```
-
 9. **Running the Docker Containers:**
 Each container has a `spinup.sh` script that launches the container and detects any runAI200 devices on the host. Devices found by the kernel module will appear as `/dev/uai*` both on the host and inside the container.
 ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/docker.JPG)
