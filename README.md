@@ -10,25 +10,27 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
 3. **Obtain AI Jupyter Notebook Shortcut Details:**
    Right-click on AI Jupyter Notebook and select "Shortcut details" as shown in the following figure:
 
-   ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG)
+    <p align="center">
+  <img src="[https://github.com/cmcmicrosystems/Tenstorrent-Grayskull-e150-Accelerator/blob/main/images/12.png]" alt="Image Alt Text" style="width: 500px; height: 400px;">
+</p>
    
-4. **Find the Server IP Address:**
+5. **Find the Server IP Address:**
    In the shortcut details window, you will find the IP address of the server. In this case, the IP address of the server is 172.16.60.17:    
-5. **SSH to the Server:**
+6. **SSH to the Server:**
    Use the obtained IP address to SSH into the server using the following command:
    ```
    ssh username@ipaddress                     
    ```
-6. **Copy the configuration script and tutorials:**
+7. **Copy the configuration script and tutorials:**
    ```
    cp -r -a /CMC/* /home/username
    cd /home/username/untether
    ```
-7. **Change permission of your directory and files**
+8. **Change permission of your directory and files**
    ```
    chmod-R a+rwx /home/username/untether
    ```   
-8. **Check Available Accelerators:**
+9. **Check Available Accelerators:**
 Once connected to the server, type the following command to see available accelerator cards in the system:
    ```
    lspci | grep accelerator
