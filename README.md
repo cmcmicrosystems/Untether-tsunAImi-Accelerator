@@ -11,7 +11,7 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
    Right-click on AI Jupyter Notebook and select "Shortcut details" as shown in the following figure:
 
     <p align="center">
-  <img src="[https://github.com/cmcmicrosystems/Tenstorrent-Grayskull-e150-Accelerator/blob/main/images/12.png]" alt="Image Alt Text" style="width: 500px; height: 400px;">
+  <img src="https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG" alt="Image Alt Text" style="width: 500px; height: 400px;">
 </p>
    
 5. **Find the Server IP Address:**
