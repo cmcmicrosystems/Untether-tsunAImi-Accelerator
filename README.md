@@ -8,10 +8,9 @@ To start using the Untether tsunAImi tsn200ES Accelerator, follow these steps:
    ![Image Alt Text](https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass.JPG)
    
 3. **Obtain AI Jupyter Notebook Shortcut Details:**
-   Right-click on AI Jupyter Notebook and select "Shortcut details" as shown in the following figure:
-
-    <p align="center">
-  <img src="https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG" alt="Image Alt Text" alt="Image Alt Text" style="width: 250px; height: 400px;">
+   Right-click on AI Jupyter Notebook and select "Shortcut details" as shown in the following figure: 
+<p align="center">
+    <img src="https://github.com/cmcmicrosystems/Untether-tsunAImi-Accelerator/blob/main/cadpass1.JPG" alt="Image Alt Text" style="width: 250px; height: 400px;">
 </p>
 
 5. **Find the Server IP Address:**
