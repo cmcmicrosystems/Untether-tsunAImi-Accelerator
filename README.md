@@ -38,7 +38,7 @@ The output of this command will display the available accelerator cards, such as
    ```
    86:00.0 Processing accelerators: Untether AI runAI200 AI Inference Accelerator (rev 01)
    ```
-9. **Running the Docker Containers:**
+10. **Running the Docker Containers:**
 
 Before launching the container, type the following command in a separate terminal to establish a secure shell (SSH) connection to the server with the ipaddress, using your username and port 22.
 ```
